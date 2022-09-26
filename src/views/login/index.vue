@@ -1,8 +1,6 @@
 <template>
   <div>
-    <div>
-      <el-form></el-form>
-    </div>
+    <div></div>
   </div>
 </template>
 
